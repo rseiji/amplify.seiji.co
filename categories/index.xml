@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Annotations</title>
-    <link>http://annoations.seiji.co/categories/</link>
+    <link>https://rseiji.github.io/annotations/categories/</link>
     <description>Recent content in Categories on Annotations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="http://annoations.seiji.co/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rseiji.github.io/annotations/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

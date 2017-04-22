@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://annoations.seiji.co/annotation/rams/</loc>
+    <loc>https://rseiji.github.io/annotations/annotation/rams/</loc>
     <lastmod>2017-04-22T18:00:26-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://annoations.seiji.co/</loc>
-    <lastmod>2017-04-22T18:00:26-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://annoations.seiji.co/annotation/</loc>
+    <loc>https://rseiji.github.io/annotations/</loc>
     <lastmod>2017-04-22T18:00:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://annoations.seiji.co/categories/</loc>
+    <loc>https://rseiji.github.io/annotations/annotation/</loc>
+    <lastmod>2017-04-22T18:00:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://annoations.seiji.co/tags/</loc>
+    <loc>https://rseiji.github.io/annotations/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rseiji.github.io/annotations/tags/</loc>
     <priority>0</priority>
   </url>
   

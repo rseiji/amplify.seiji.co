@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Annotations</title>
-    <link>http://annoations.seiji.co/annotation/</link>
+    <link>https://rseiji.github.io/annotations/annotation/</link>
     <description>Recent content on Annotations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 22 Apr 2017 18:00:26 -0300</lastBuildDate>
     
-	<atom:link href="http://annoations.seiji.co/annotation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rseiji.github.io/annotations/annotation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rams</title>
-      <link>http://annoations.seiji.co/annotation/rams/</link>
+      <link>https://rseiji.github.io/annotations/annotation/rams/</link>
       <pubDate>Sat, 22 Apr 2017 18:00:26 -0300</pubDate>
       
-      <guid>http://annoations.seiji.co/annotation/rams/</guid>
+      <guid>https://rseiji.github.io/annotations/annotation/rams/</guid>
       <description> “Good design begins with the education of good designers.”
  </description>
     </item>

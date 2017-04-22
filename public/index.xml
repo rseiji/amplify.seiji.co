@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annotations</title>
+    <link>http://annoations.seiji.co/</link>
+    <description>Recent content on Annotations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 22 Apr 2017 18:00:26 -0300</lastBuildDate>
+    
+	<atom:link href="http://annoations.seiji.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rams</title>
+      <link>http://annoations.seiji.co/annotation/rams/</link>
+      <pubDate>Sat, 22 Apr 2017 18:00:26 -0300</pubDate>
+      
+      <guid>http://annoations.seiji.co/annotation/rams/</guid>
+      <description> “Good design begins with the education of good designers.”
+ </description>
+    </item>
+    
+  </channel>
+</rss>

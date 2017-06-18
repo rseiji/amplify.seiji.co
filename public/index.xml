@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annotations</title>
-    <link>http://annoations.seiji.co/</link>
-    <description>Recent content on Annotations</description>
+    <title>seiji annot ation</title>
+    <link>https://annotations.seiji.co/</link>
+    <description>Recent content on seiji annot ation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 22 Apr 2017 18:00:26 -0300</lastBuildDate>
     
-	<atom:link href="http://annoations.seiji.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://annotations.seiji.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>rams</title>
-      <link>http://annoations.seiji.co/annotation/rams/</link>
+      <title>AI and the future of design</title>
+      <link>https://annotations.seiji.co/ai-and-design/</link>
       <pubDate>Sat, 22 Apr 2017 18:00:26 -0300</pubDate>
       
-      <guid>http://annoations.seiji.co/annotation/rams/</guid>
+      <guid>https://annotations.seiji.co/ai-and-design/</guid>
+      <description>Designers as curators: &amp;gt; In the future, designers will train their AI tools to solve design problems by creating models based on their preferences.
+The ongoing era of superstar designers: &amp;gt; As AI-driven parametric design enables designers to quickly and easily create millions of variations of a design, most designers’ productivity will dramatically increase. &amp;hellip; until AI is capable of surprising us with completely novel ideas, superstar designers and companies that invest in them will continue to dominate, increasing the value of design brands.</description>
+    </item>
+    
+    <item>
+      <title>rams</title>
+      <link>https://annotations.seiji.co/rams/</link>
+      <pubDate>Sat, 22 Apr 2017 18:00:26 -0300</pubDate>
+      
+      <guid>https://annotations.seiji.co/rams/</guid>
       <description> “Good design begins with the education of good designers.”
  </description>
     </item>

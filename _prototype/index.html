@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>seiji_annotations</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <style media="screen">
+      @import url('//cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css');
+
+      * {
+        font-family: 'Hack', monospace;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background-color: #101010;
+      }
+
+      h1 {
+        font-weight: 400;
+        font-size: 2rem;
+        position: fixed;
+        width: 8rem;
+        left: 0;
+        bottom: 0;
+        margin: 0;
+        padding: 0;
+        line-height: 2rem;
+        letter-spacing: -.2rem;
+        z-index: -1;
+        color: #050505;
+      }
+
+      .article {
+        width: 100%;
+        max-width: 32rem;
+        margin: 0 auto;
+        padding: 4.2rem 1rem;
+        border-bottom: 2px dotted #222;
+      }
+      .article:last-child {
+        border-bottom: 0;
+      }
+
+      .p, .blockquote {
+        color: #F0F0F0;
+        font-size: .9rem;
+        line-height: 1.4rem;
+        margin: 0;
+        margin-bottom: 1.4rem;
+      }
+      .blockquote {
+        margin-top: 0;
+        margin-left: .2rem;
+        margin-bottom: 1.4rem;
+        padding-left: 1.2rem;
+        border-left: 2px dotted #222;
+      }
+      .h2 {
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.4rem;
+        margin: 0;
+        margin-top: 1.4rem;
+      }
+      .h2 a{
+        color: #444;
+        text-decoration: none;
+        transition: color .3s ease;
+      }
+      .h2 a:hover:after {
+        content: ' \2192';
+      }
+      .h2 a:hover, .links a:hover {
+        color: #fff;
+      }
+
+      .meta {
+        color: #444;
+        font-size: .7rem;
+      }
+      .time {
+        background-color: #777;
+        color: #111;
+        display: inline-block;
+        padding: 2px 2px;
+        margin-right: .3rem;
+      }
+      .tags {
+        display: inline;
+        margin: 0;
+        padding: 0;
+      }
+      .tags li {
+        display: inline-block;
+        line-height: 1.4rem;
+        text-transform: lowercase;
+      }
+      .tags li:after {
+        content: "•";
+        display: inline-block;
+        margin-left: .5rem;
+      }
+      .tags li:last-child:after {
+        content: "";
+      }
+
+      .links li a {
+        color: #444;
+        text-decoration: none;
+        transition: color .3s ease;
+      }
+      .cats-menu {
+        display: none;
+      }
+
+      @media (min-width: 60rem) {
+        .cats-menu {
+          display: block;
+          position: fixed;
+          right: 1rem;
+          bottom: 1rem;
+          list-style: none;
+          text-align: right;
+          font-size: .7rem;
+          line-height: 1.4rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="h1">seiji annot ation</h1>
+
+    <ul class="links cats-menu">
+      <li><a href="/user-interface">user interface</a></li>
+      <li><a href="/bramd">brand</a></li>
+    </ul>
+
+    <article class="article">
+      <div class="content">
+        <p class="p">Some person:</p>
+        <blockquote class="blockquote" cite="https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742">
+          A few weeks ago, I began gathering images for UI inspiration for a side project I am working on (moodboarding). I felt drawn to colorful and vibrant images in my moodboard because that’s the feel of the product I am creating: playful, joyful, and culturally interconnected.
+        </blockquote>
+        <p class="p">Not that bad indeed.</p>
+      </div>
+      <h2 class="h2"><a href="https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742">Color blends are back in fashion, and these 30 will give you a colorgasm</a></h2>
+      <div class="meta">
+        <time class="time" datetime="2017-06-20T02:10">27 Jun 2017</time>
+        <ul class="links tags">
+          <li><a href="/user-intefaces">user Interface</a></li>
+          <li><a href="/brand">brand</a></li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="article">
+      <div class="content">
+        <p class="p">Some person:</p>
+        <blockquote class="blockquote" cite="https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742">
+          A few weeks ago, I began gathering images for UI inspiration for a side project I am working on (moodboarding). I felt drawn to colorful and vibrant images in my moodboard because that’s the feel of the product I am creating: playful, joyful, and culturally interconnected.
+        </blockquote>
+        <p class="p">Not that bad indeed.</p>
+      </div>
+      <h2 class="h2"><a href="https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742">Color blends are back in fashion, and these 30 will give you a colorgasm</a></h2>
+      <div class="meta">
+        <time class="time" datetime="2017-06-20T02:10">27 Jun 2017</time>
+        <ul class="links tags">
+          <li><a href="/user-intefaces">user Interface</a></li>
+          <li><a href="/brand">brand</a></li>
+        </ul>
+      </div>
+    </article>
+
+  </body>
+</html>

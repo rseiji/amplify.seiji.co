@@ -1,0 +1,146 @@
+@import url('//cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css');
+
+* {
+  font-family: 'Hack', monospace;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #101010;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 2rem;
+  position: fixed;
+  width: 8rem;
+  left: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  line-height: 2rem;
+  letter-spacing: -.2rem;
+  z-index: 1;
+  color: #050505;
+}
+h1 a:link, h1 a:visited {
+  color: #050505;
+  transition: color .5s ease;
+  text-decoration: none;
+}
+h1 a:hover {
+  color: #222;
+}
+
+.section {
+  z-index: 2;
+}
+
+.article {
+  width: 100%;
+  max-width: 32rem;
+  margin: 0 auto;
+  padding: 4.2rem 1rem;
+  border-bottom: 2px dotted #222;
+}
+.article:last-child {
+  border-bottom: 0;
+}
+
+.article p {
+  color: #F0F0F0;
+  font-size: .9rem;
+  line-height: 1.4rem;
+  margin: 0;
+  margin-bottom: 1.4rem;
+}
+.article blockquote {
+  margin-top: 0;
+  margin-left: .2rem;
+  margin-bottom: 1.4rem;
+  padding-left: 1.2rem;
+  border-left: 2px dotted #222;
+}
+.article a:link, a:visited {
+  text-decoration: none;
+  transition: color .3s ease;
+}
+.article a.ext:hover:after, .article .content a:hover:after {
+  content: ' \2192';
+}
+.article a:hover, .links a:hover {
+  color: #fff;
+}
+
+.h2 {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  margin: 0;
+  margin-top: 1.4rem;
+}
+.h2 a{
+  color: #444;
+}
+.content a:link, .content a:visited {
+  color: #D0D0FF;
+}
+
+.meta {
+  color: #444;
+  font-size: .7rem;
+}
+.time a:link, .time a:visited{
+  background-color: #777;
+  color: #111;
+  display: inline-block;
+  padding: 0;
+  margin-right: .3rem;
+}
+.time a:hover {
+  color: #fff;
+}
+
+.tags {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+.tags li {
+  display: inline-block;
+  line-height: 1.4rem;
+  text-transform: lowercase;
+}
+.tags li:after {
+  content: "•";
+  display: inline-block;
+}
+.tags li:last-child:after {
+  content: "";
+}
+
+.links li a:link, .links li a:visited {
+  color: #444;
+  text-decoration: none;
+  transition: color .3s ease;
+}
+.links li a:hover {
+  color: #fff;
+}
+.cats-menu {
+  display: none;
+}
+
+@media (min-width: 60rem) {
+  .cats-menu {
+    display: block;
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    list-style: none;
+    text-align: right;
+    font-size: .7rem;
+    line-height: 1.4rem;
+  }
+}

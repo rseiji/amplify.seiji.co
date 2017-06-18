@@ -2,29 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rseiji.github.io/annotations/annotation/rams/</loc>
+    <loc>https://annotations.seiji.co/home-office/</loc>
+    <lastmod>2017-06-17T23:08:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annotations.seiji.co/ai-and-design/</loc>
     <lastmod>2017-04-22T18:00:26-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rseiji.github.io/annotations/</loc>
+    <loc>https://annotations.seiji.co/tags/artificial-intelligence/</loc>
     <lastmod>2017-04-22T18:00:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rseiji.github.io/annotations/annotation/</loc>
+    <loc>https://annotations.seiji.co/tags/</loc>
     <lastmod>2017-04-22T18:00:26-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rseiji.github.io/annotations/categories/</loc>
+    <loc>https://annotations.seiji.co/tags/working/</loc>
+    <lastmod>2017-06-17T23:08:05-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rseiji.github.io/annotations/tags/</loc>
+    <loc>https://annotations.seiji.co/</loc>
+    <lastmod>2017-06-17T23:08:05-03:00</lastmod>
     <priority>0</priority>
   </url>
   

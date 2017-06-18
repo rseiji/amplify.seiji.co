@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working on seiji annot ation</title>
+    <link>https://annotations.seiji.co/tags/working/</link>
+    <description>Recent content in Working on seiji annot ation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 17 Jun 2017 23:08:05 -0300</lastBuildDate>
+    
+	<atom:link href="https://annotations.seiji.co/tags/working/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Praise of the Home Office</title>
+      <link>https://annotations.seiji.co/home-office/</link>
+      <pubDate>Sat, 17 Jun 2017 23:08:05 -0300</pubDate>
+      
+      <guid>https://annotations.seiji.co/home-office/</guid>
+      <description>Mike Sager:
+ Here in my home office, the line between pleasure and duty is blurred. Weekend or weekday, there is no difference to me. Nobody counts my hours. My work is also my hobby. It takes as long as it takes.
+ A well written reflection on working from a home office.</description>
+    </item>
+    
+  </channel>
+</rss>

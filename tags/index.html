@@ -1,0 +1,37 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+{% capture site_tags %}
+{% for tag in site.tags %}
+{{ tag | first }}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+{% endcapture %}
+
+{% assign tags_list = site_tags | split:',' | sort %}
+<section class="section articles-list">
+{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+    <div class="tag-articles with-divider">
+      <h3>{{ this_tag }}</h3>
+      <ul>
+      {% for post in site.tags[this_tag] %}
+      {% if post.title != null %}
+        <li class="tag-post">
+          {% if post.link %}
+          <a href="{{ post.link }}">
+          {% else %}
+          <a href="{{ post.url | prepend: site.baseurl }}">
+          {% endif %}
+            <span class="tag-post-title">{{ post.title }}</span>
+          </a>
+        </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+
+    </div>
+{% endunless %}
+{% endfor %}
+</section>

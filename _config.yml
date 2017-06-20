@@ -1,0 +1,25 @@
+name: seiji annot ation
+email: sato@seiji.co
+description: Annotations
+url: "http://annotations.seiji.co"
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+sass:
+  sass_dir:         _sass
+  style:            :compressed

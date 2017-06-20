@@ -1,7 +1,0 @@
-baseURL = "https://annotations.seiji.co/"
-languageCode = "pt-br"
-title = "seiji annot ation"
-theme = "Seiji01"
-
-[taxonomies]
-tag = "tags"

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<section class="section articles">
+<section class="section articles">
+  <article class="article">
+    <div class="content">
+      {{ page.content }}
+    </div>
+    <h2 class="h2">
+      <a class="ext" href="{{ page.source }}">{{ page.title }}</a>
+    </h2>
+    <div class="meta">
+      <time class="time" datetime="{{ page.date | date_to_xmlschema  }}">
+        <a href="{{ page.url }}">
+          {{ page.date | date_to_string }}
+        </a>
+      </time>
+      <ul class="links tags">
+        {% for tag in page.tags %}
+          <li> <a href="/tags#{{ tag }}">{{ tag }}</a> </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </article>
+</section>

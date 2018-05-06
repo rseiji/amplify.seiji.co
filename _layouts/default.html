@@ -23,7 +23,7 @@
       {% unless forloop.last %}
         {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
         <li>
-          <a href="/tags#{{ this_tag }}">
+          <a href="/tags#{{ this_tag | hyphenate }}">
             {{ this_tag }}
           </a>
         </li>

@@ -14,7 +14,7 @@ permalink: /tags/
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
     <div class="tag-articles with-divider">
-      <h3>{{ this_tag }}</h3>
+      <h3 id="{{ this_tag | hyphenate }}">{{ this_tag }}</h3>
       <ul>
       {% for post in site.tags[this_tag] %}
       {% if post.title != null %}

@@ -1,5 +1,5 @@
 ---
-title: PicPic
+title: PicaPic: Collection of handheld electronic games
 date: '2012-04-29T18:26:28-03:00'
 tags:
 - game

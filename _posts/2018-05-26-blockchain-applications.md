@@ -3,7 +3,7 @@ date: 2018-05-26 23:00:00 -0300
 title: "Blockchain applications"
 source: "https://www.oreilly.com/ideas/blockchain-applications"
 tags:
-- structures
+- blockchain
 ---
 Mike Loukides:
 

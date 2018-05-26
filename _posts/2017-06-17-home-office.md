@@ -3,7 +3,7 @@ date: 2017-06-17 23:08:05 -0300
 title: "In Praise of the Home Office"
 source: "http://99u.com/articles/55571/in-praise-of-the-home-office"
 tags:
-- working
+- method
 ---
 Mike Sager:
 

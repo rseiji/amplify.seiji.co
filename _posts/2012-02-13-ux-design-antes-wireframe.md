@@ -2,7 +2,6 @@
 title: UX design antes do wireframe
 date: '2012-02-13T12:04:08-02:00'
 tags:
-- slide deck
 - experience
 source: https://www.slideshare.net/fabricioteixeira/ux-design-antes-do-wireframe
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The paperless book
 date: '2013-05-24T23:55:00-03:00'
 tags:
-- ebook
+- publishing
 source: https://medium.com/digital-publishing/the-paperless-book-efe77782e49c
 ---
 Todd Sattersten, from BizBookLab:

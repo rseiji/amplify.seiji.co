@@ -3,7 +3,7 @@ date: "2017-04-22T18:00:26-03:00"
 title: "AI and the future of design"
 source: "https://www.oreilly.com/ideas/ai-and-the-future-of-design-what-will-the-designer-of-2025-look-like"
 tags:
-- artificial-intelligence
+- experience
 ---
 
 Designers as curators:

@@ -147,6 +147,7 @@ h1 {
 
     &:after {
       content: "•";
+      color: #444;
       display: inline-block;
     }
     &:last-child:after {

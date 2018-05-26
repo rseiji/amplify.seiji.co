@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Capptivate: kinetic pattern library.
+title: 'Capptivate : kinetic pattern library.'
 date: '2014-04-09T11:14:35-03:00'
 tags:
 - reference

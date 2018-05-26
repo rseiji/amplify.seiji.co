@@ -1,5 +1,5 @@
 ---
-title: The Flat Design Aesthetic: A Discussion
+title: 'The Flat Design Aesthetic : A Discussion'
 date: '2013-01-31T20:55:00-02:00'
 tags:
 - trend

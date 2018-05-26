@@ -1,5 +1,4 @@
 ---
-layout: post
 title: jQuery Parallax Plugin
 date: '2012-03-14T01:43:05-03:00'
 tags:

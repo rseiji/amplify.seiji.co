@@ -1,8 +1,9 @@
 ---
-layout: post
-title: If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system
+title: If the Moon Were Only 1 Pixel
 date: '2014-03-07T18:27:46-03:00'
-tags: []
-tumblr_url: http://amplifysomething.tumblr.com/post/78884550257/if-the-moon-were-only-1-pixel-a-tediously
+tags:
+- reference
+source: http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 ---
-If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system
+Josh Worth:
+> A tediously accurate map of the solar system

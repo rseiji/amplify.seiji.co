@@ -62,12 +62,15 @@ h1 {
   z-index: 2;
   position: relative;
 
-  p {
+  p, ul, ol {
     color: #F0F0F0;
     font-size: .9rem;
     line-height: 1.4rem;
     margin: 0;
     margin-bottom: 1.4rem;
+  }
+  ul, ol {
+    padding-left: 1rem;
   }
 
   blockquote {

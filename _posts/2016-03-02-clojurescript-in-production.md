@@ -12,5 +12,6 @@ Clojurescript in production mentioned in a Clojure Google Group thread.
 - [reuters media express](http://open.mediaexpress.reuters.com)
 - [circle ci](https://github.com/circleci/)
 - [frontendgoya](http://jackschaedler.github.io/goya/)
- 
+
+
 And [those companies as well](https://github.com/clojure/clojurescript/wiki/Companies-Using-ClojureScript).

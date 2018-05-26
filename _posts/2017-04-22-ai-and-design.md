@@ -16,7 +16,7 @@ The ongoing era of superstar designers:
 
 > I can see the potential for a future where our personal AI assistants, armed with a deep understanding of our influences, heroes, and inspirations, constantly critique our work, suggesting ideas and areas of improvement. A world where problem-solving bots help us see a problem from a variety of perspectives, through different frameworks. Where simulated users test things we’ve designed to see how they will perform in a variety of contexts and suggest improvements, before anything is even built. Where A/B testing bots are constantly looking for ways to suggest minor performance optimizations to our design work.
 
-https://www.oreilly.com/ideas/ai-and-the-future-of-design-will-machines-take-your-job
+[AI and the future of design: Will machines take your job?](https://www.oreilly.com/ideas/ai-and-the-future-of-design-will-machines-take-your-job)
 
 > How do we retrain a significant percentage of the workforce to occupations that are more resilient to technological automation and what are the characteristics of these automation-proof occupations?
 

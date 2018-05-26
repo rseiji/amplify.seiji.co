@@ -5,5 +5,6 @@ tags:
 - reference
 source: http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 ---
-Josh Worth:
 > A tediously accurate map of the solar system
+
+By Josh Worth.

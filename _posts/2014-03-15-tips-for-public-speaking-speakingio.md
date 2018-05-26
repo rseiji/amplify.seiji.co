@@ -6,5 +6,6 @@ tags:
 - people skills
 source: http://speaking.io
 ---
-Zach Holman:
 > Because “imagine everyone's naked” is terrible advice.
+
+By Zach Holman.

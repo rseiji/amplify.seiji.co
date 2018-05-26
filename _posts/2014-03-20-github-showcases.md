@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Github Showcases
+title: Github Collections
 date: '2014-03-20T18:06:00-03:00'
 tags:
-- Moving Pixels
-tumblr_url: http://amplifysomething.tumblr.com/post/80194800879/github-showcases
+- programming
+source: https://github.com/collections
 ---
-Github Showcases
-Interesting projects, solving all types of interesting problems.
+> Curated lists and insight into burgeoning industries, topics, and communities.

@@ -2,8 +2,7 @@
 title: Make Better Apps
 date: '2012-04-23T17:46:22-03:00'
 tags:
-- Collection
-- ui
+- reference
 source: http://www.makebetterapps.com/
 ---
-Collection of apps UIs for iOS and OSX.
+Collection of app's UI for iPhone, iPad and Mac.

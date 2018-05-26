@@ -1,9 +1,9 @@
 ---
-layout: post
-title: On the “flat design” aesthetic
+title: The Flat Design Aesthetic: A Discussion
 date: '2013-01-31T20:55:00-02:00'
 tags:
-- aesthetics
-tumblr_url: http://amplifysomething.tumblr.com/post/41983898066/on-the-flat-design-aesthetic
+- trend
+source: https://speckyboy.com/the-flat-design-aesthetic/
 ---
-On the “flat design” aestheticAté mês passado polir pixels das sombras e gradientes era cool, mas agora que é 2013, skeuomorphism é coisa de 2012. Flat design ganhando espaço, estilo suísso ganha espaço (novamente).
+Shawn Adrian:
+> Like the minimalist movement in architecture in the 20th century was a backlash against the over ornamentation of architecture in previous centuries, the flat design aesthetic may be a backlash against the over designed, or overly ornamented web sites and interfaces that have been produced for years now. A common example is the overuse of skeuomorphism that people have been criticising Apple over lately.

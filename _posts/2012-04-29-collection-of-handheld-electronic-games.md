@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Collection of Handheld Electronic Games
+title: PicPic
 date: '2012-04-29T18:26:28-03:00'
-tags: []
-tumblr_url: http://amplifysomething.tumblr.com/post/22076285364/collection-of-handheld-electronic-games
+tags:
+- game
+- hardware
+source: http://www.pica-pic.com/
 ---
-Collection of Handheld Electronic Games
+> [Hipopotam](http://www.hipopotamstudio.pl/)'s digitalized collection of handheld electronic games

@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Android Niceties
 date: '2012-05-28T15:54:12-03:00'
 tags:
-- Collection
-- mobile
-- ui
-tumblr_url: http://amplifysomething.tumblr.com/post/23943046073/android-niceties
+- reference
+source: http://androidniceties.tumblr.com/
 ---
-Android Niceties
+> Beautiful, well-built Android apps. Inspiration and insight into Android UI conventions.
+
+By [@c0up](https://twitter.com/c0up)

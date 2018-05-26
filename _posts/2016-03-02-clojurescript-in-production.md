@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Clojurescript in production
+title: ClojureScript at its best
 date: '2016-03-02T06:16:39-03:00'
-tags: []
-tumblr_url: http://amplifysomething.tumblr.com/post/140324787297/clojurescript-in-production
+tags:
+- programming
+- functional
+source: https://groups.google.com/forum/#!topic/clojure/e-Tn8Gv0JEg
 ---
-Clojurescript in productionprecursor – https://precursorapp.comasciinema – https://asciinema.orgreuters media express – http://open.mediaexpress.reuters.comcircici – https://github.com/circleci/frontendgoya – http://jackschaedler.github.io/goya/And more: https://github.com/clojure/clojurescript/wiki/Companies-Using-ClojureScript
+Clojurescript in production mentioned in a Clojure Google Group thread.
+- [precursor](https://precursorapp.comasciinema)
+- [asciicinema](https://asciinema.org)
+- [reuters media express](http://open.mediaexpress.reuters.com)
+- [circle ci](https://github.com/circleci/)
+- [frontendgoya](http://jackschaedler.github.io/goya/)
+ 
+And [those companies as well](https://github.com/clojure/clojurescript/wiki/Companies-Using-ClojureScript).

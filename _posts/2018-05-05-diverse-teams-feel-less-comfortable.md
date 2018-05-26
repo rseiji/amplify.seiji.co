@@ -2,7 +2,8 @@
 date: 2018-05-05 23:00:00 -0300
 title: "Diverse Teams Feel Less Comfortable — and That’s Why They Perform Better"
 source: "https://hbr.org/2016/09/diverse-teams-feel-less-comfortable-and-thats-why-they-perform-better"
-tags: culture
+tags:
+- culture
 ---
 David Rock, Heidi Grant and Jacqui Grey:
 

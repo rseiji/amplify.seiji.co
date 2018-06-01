@@ -20,7 +20,8 @@ defaults:
       path:         ""
       type:         "posts"
     values:
-      layout:       "post"
+      source:       "https://annotations.seiji.co"
+      tags:         ""
 
 sass:
   sass_dir:         _sass

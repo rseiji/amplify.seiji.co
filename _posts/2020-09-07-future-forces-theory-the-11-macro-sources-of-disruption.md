@@ -8,6 +8,6 @@ tags:
 ---
 > It is a way of understanding where disruption is coming from and where it’s headed next. The sources of macro change represent external uncertainties—factors that broadly affect business, governing and society. They can skew positive, neutral and negative.
 
-Feels wrong to me to assume _disruptive_ as a positive change. Feels good this report stating it can skew towards other tones.
+Feels wrong to me to assume _disruptive_ as a positive change. Feels good to read it stating that changes can skew towards negative and neutral.
 
 The 11 macro sources of disruption: wealth distribution, education, infrastructure, government, geopolitics, public health, demographics, environment, media & telecommunications, and technology.

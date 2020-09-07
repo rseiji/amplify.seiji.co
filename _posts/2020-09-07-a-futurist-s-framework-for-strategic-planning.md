@@ -6,7 +6,7 @@ tags:
 - framework
 
 ---
-Amy Webb:
+Amy Webb, [Future Today Institute](https://futuretodayinstitute.com)'s founder:
 
 > For any given uncertainty about the future — whether that’s risk, opportunity, or growth — **we \[futurists\] tend to think in the short- and long-term simultaneously**. To do this, I use a framework that measures certainty and charts actions, rather than simply marking the passage of time as quarters or years. That’s why **my timelines aren’t actually lines at all — they are cones**.
 
